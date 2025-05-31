@@ -1,0 +1,3 @@
+Value = 0 → No influence from the input image. The model generates a completely new image.
+Value = 1 → The output is almost identical to the input image.
+Recommended Range (0 - 0.25) → Allows for slight changes while keeping the original image's structure.
