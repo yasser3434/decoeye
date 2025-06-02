@@ -1,9 +1,4 @@
-requests 
-fire
-python-dotenv
-replicate
-ultralytics 
-opencv-python
-selenium 
-webdriver-manager
 streamlit
+replicate
+python-dotenv
+pillow
